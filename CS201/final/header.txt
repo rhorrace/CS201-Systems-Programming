@@ -1,0 +1,12 @@
+0x4		Version: 4
+0x5		Header Length: 20 bytes
+0x20		Differentiated Services Field: 0x20 (DSCP: CS1, ECN: Not-ECT)
+0x05be		Total Length: 1470
+0xbd9c		Identification: 0xbd9c (48540)
+0x0		Flags: 0x00
+0x0		Fragment offset: 0
+0x38		Time to live: 56
+0x6		Protocol: TCP (6)
+0x4d8e		Header checksum: 0x4d8e [validation disabled]
+0xacd90361	Source: 172.217.3.97
+0xc0a8010d	Destination: 192.168.1.13
